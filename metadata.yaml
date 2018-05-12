@@ -1,0 +1,31 @@
+_repo: Legends-of-the-Wailuku_29773
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Herwig, Will
+    gutenberg_agent_id: '34149'
+    url: http://www.gutenberg.org/2009/agents/34149
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hapai, Charlotte
+    gutenberg_agent_id: '34148'
+    url: http://www.gutenberg.org/2009/agents/34148
+description: ''
+gutenberg_issued: '2009-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29773'
+  lccn: '22000463'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Hawaii'
+- !lcsh 'Legends -- Hawaii'
+- !lcc 'GR'
+title: Legends of the Wailuku
+url: http://www.gutenberg.org/ebooks/29773
